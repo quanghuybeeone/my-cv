@@ -1,0 +1,108 @@
+{
+  "infos": [
+    {
+      "id": 1,
+      "fullName": "Ngô Quang Huy",
+      "position": "Web programming intern",
+      "experience": "1 Years",
+      "email": "quang.huybeeone@gmail.com",
+      "website": "quang.huybeeoneit.website",
+      "phone": "0378396777"
+    }
+  ],
+  "targets": [
+    {
+      "content": "Học hỏi trao đổi thêm kiến thức mới 456 Học hỏi trao đổi thêm kiến thức mới 456Học hỏi trao đổi thêm kiến thức mới 456Học hỏi trao đổi thêm kiến thức mới 456Học hỏi trao đổi thêm kiến thức mới 456Học hỏi trao đổi thêm kiến thức mới 456Học hỏi trao đổi thêm kiến thức mới 456",
+      "createdAt": 1690191689634,
+      "id": 11
+    },
+    {
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus vero quibusdam, itaque debitis quis laborum magnam deserunt veniam sed perferendis, repellat autem recusandae tenetur eaque repellendus? Fugit praesentium dolorem ipsa?",
+      "createdAt": 1690356015275,
+      "id": 13
+    },
+    {
+      "content": "123 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus vero quibusdam, itaque debitis quis laborum magnam deserunt veniam sed perferendis, repellat autem recusandae tenetur eaque repellendus? Fugit praesentium dolorem ipsa?",
+      "createdAt": 1690356060047,
+      "id": 14
+    }
+  ],
+  "infomations": [
+    {
+      "id": 2,
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus vero quibusdam, itaque debitis quis laborum magnam deserunt veniam sed perferendis, repellat autem recusandae tenetur eaque repellendus? Fugit praesentium dolorem ipsa?"
+    },
+    {
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus vero quibusdam, itaque debitis quis laborum magnam deserunt veniam sed perferendis, repellat autem recusandae tenetur eaque repellendus? Fugit praesentium dolorem ipsa?",
+      "createdAt": 1690353856041,
+      "id": 3
+    }
+  ],
+  "educations": [
+    {
+      "id": 1,
+      "school": "FPT Polytechnic 456",
+      "time": "2021-2023"
+    },
+    {
+      "time": "4-2023",
+      "school": "123456",
+      "createdAt": 1690355618805,
+      "id": 2
+    }
+  ],
+  "certificates": [
+    {
+      "id": 1,
+      "name": "FPT Polytechnic",
+      "time": "4-2023"
+    },
+    {
+      "id": 2,
+      "name": "FPT Polytechnic",
+      "time": "4-2023"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "Html Css Javascript",
+      "detail": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus vero quibusdam, itaque debitis quis laborum magnam deserunt veniam sed perferendis, repellat autem recusandae tenetur eaque repellendus? Fugit praesentium dolorem ipsa?"
+    },
+    {
+      "id": 2,
+      "name": "PHP & Laravel",
+      "detail": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus vero quibusdam, itaque debitis quis laborum magnam deserunt veniam sed perferendis, repellat autem recusandae tenetur eaque repellendus? Fugit praesentium dolorem ipsa?"
+    },
+    {
+      "id": 3,
+      "name": "Nodejs MongoDB, Nodejs MySQL",
+      "detail": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus vero quibusdam, itaque debitis quis laborum magnam deserunt veniam sed perferendis, repellat autem recusandae tenetur eaque repellendus? Fugit praesentium dolorem ipsa?"
+    },
+    {
+      "id": 4,
+      "name": "React-JS & React-TS",
+      "detail": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus vero quibusdam, itaque debitis quis laborum magnam deserunt veniam sed perferendis, repellat autem recusandae tenetur eaque repellendus? Fugit praesentium dolorem ipsa?"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "E-commerce website",
+      "time": "3/2023 - 5/2023",
+      "detail": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus vero quibusdam, itaque debitis quis laborum magnam deserunt veniam sed perferendis, repellat autem recusandae tenetur eaque repellendus? Fugit praesentium dolorem ipsa?"
+    },
+    {
+      "id": 2,
+      "name": "Website Booking Hotel",
+      "time": "3/2023 - 5/2023",
+      "detail": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus vero quibusdam, itaque debitis quis laborum magnam deserunt veniam sed perferendis, repellat autem recusandae tenetur eaque repellendus? Fugit praesentium dolorem ipsa?"
+    },
+    {
+      "id": 3,
+      "name": "Social network",
+      "time": "3/2023 - 5/2024",
+      "detail": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus vero quibusdam, itaque debitis quis laborum magnam deserunt veniam sed perferendis, repellat autem recusandae tenetur eaque repellendus? Fugit praesentium dolorem ipsa?"
+    }
+  ]
+}
